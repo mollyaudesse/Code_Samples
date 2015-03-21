@@ -1,0 +1,6 @@
+K:\Saved work for 110\Lab 3 Types\Lab 3 Types\bin\Debug\Lab 3 Types.exe.config
+K:\Saved work for 110\Lab 3 Types\Lab 3 Types\bin\Debug\Lab 3 Types.exe
+K:\Saved work for 110\Lab 3 Types\Lab 3 Types\bin\Debug\Lab 3 Types.pdb
+K:\Saved work for 110\Lab 3 Types\Lab 3 Types\obj\Debug\Lab 3 Types.csprojResolveAssemblyReference.cache
+K:\Saved work for 110\Lab 3 Types\Lab 3 Types\obj\Debug\Lab 3 Types.exe
+K:\Saved work for 110\Lab 3 Types\Lab 3 Types\obj\Debug\Lab 3 Types.pdb

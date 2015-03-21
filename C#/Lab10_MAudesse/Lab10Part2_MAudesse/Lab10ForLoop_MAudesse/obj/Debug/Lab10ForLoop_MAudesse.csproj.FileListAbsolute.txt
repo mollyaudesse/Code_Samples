@@ -1,0 +1,6 @@
+K:\Saved work for 110\Lab10ForLoop_MAudesse\Lab10ForLoop_MAudesse\bin\Debug\Lab10ForLoop_MAudesse.exe.config
+K:\Saved work for 110\Lab10ForLoop_MAudesse\Lab10ForLoop_MAudesse\bin\Debug\Lab10ForLoop_MAudesse.exe
+K:\Saved work for 110\Lab10ForLoop_MAudesse\Lab10ForLoop_MAudesse\bin\Debug\Lab10ForLoop_MAudesse.pdb
+K:\Saved work for 110\Lab10ForLoop_MAudesse\Lab10ForLoop_MAudesse\obj\Debug\Lab10ForLoop_MAudesse.csprojResolveAssemblyReference.cache
+K:\Saved work for 110\Lab10ForLoop_MAudesse\Lab10ForLoop_MAudesse\obj\Debug\Lab10ForLoop_MAudesse.exe
+K:\Saved work for 110\Lab10ForLoop_MAudesse\Lab10ForLoop_MAudesse\obj\Debug\Lab10ForLoop_MAudesse.pdb

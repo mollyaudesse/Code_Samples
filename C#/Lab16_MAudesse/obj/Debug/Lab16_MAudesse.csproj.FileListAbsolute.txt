@@ -1,0 +1,9 @@
+J:\ZachReedy\Lab16_MAudesse\Lab16_MAudesse\bin\Debug\Lab16_MAudesse.exe.config
+J:\ZachReedy\Lab16_MAudesse\Lab16_MAudesse\bin\Debug\Lab16_MAudesse.exe
+J:\ZachReedy\Lab16_MAudesse\Lab16_MAudesse\bin\Debug\Lab16_MAudesse.pdb
+J:\ZachReedy\Lab16_MAudesse\Lab16_MAudesse\obj\Debug\Lab16_MAudesse.csprojResolveAssemblyReference.cache
+J:\ZachReedy\Lab16_MAudesse\Lab16_MAudesse\obj\Debug\Lab16_MAudesse.exe
+J:\ZachReedy\Lab16_MAudesse\Lab16_MAudesse\obj\Debug\Lab16_MAudesse.pdb
+F:\Saved work for 110\Lab16_MAudesse\bin\Debug\Lab16_MAudesse.exe.config
+F:\Saved work for 110\Lab16_MAudesse\obj\Debug\Lab16_MAudesse.exe
+F:\Saved work for 110\Lab16_MAudesse\obj\Debug\Lab16_MAudesse.pdb

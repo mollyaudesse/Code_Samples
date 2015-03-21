@@ -1,0 +1,3 @@
+K:\Saved work for 110\Lab19_MAudesse\Lab19_MAudesse\bin\Debug\Lab19_MAudesse.exe.config
+K:\Saved work for 110\Lab19_MAudesse\Lab19_MAudesse\obj\Debug\Lab19_MAudesse.csprojResolveAssemblyReference.cache
+F:\Saved work for 110\Lab19_MAudesse\Lab19_MAudesse\bin\Debug\Lab19_MAudesse.exe.config

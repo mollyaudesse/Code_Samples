@@ -1,0 +1,7 @@
+K:\Saved work for 110\Lab6_MAudesse\bin\Debug\Lab6_MAudesse.exe.config
+F:\Saved work for 110\Lab6_MAudesse\bin\Debug\Lab6_MAudesse.exe.config
+F:\Saved work for 110\Lab6_MAudesse\bin\Debug\Lab6_MAudesse.exe
+F:\Saved work for 110\Lab6_MAudesse\bin\Debug\Lab6_MAudesse.pdb
+F:\Saved work for 110\Lab6_MAudesse\obj\Debug\Lab6_MAudesse.csprojResolveAssemblyReference.cache
+F:\Saved work for 110\Lab6_MAudesse\obj\Debug\Lab6_MAudesse.exe
+F:\Saved work for 110\Lab6_MAudesse\obj\Debug\Lab6_MAudesse.pdb

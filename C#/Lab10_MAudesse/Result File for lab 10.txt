@@ -1,0 +1,91 @@
+RESULT FILE
+
+Part 1
+
+Line 0
+Line 1
+Line 2
+Line 3
+Line 4
+Line 5
+Line 6
+Line 7
+Line 8
+Line 9
+Press any key to continue . . .
+
+Part 2
+
+Line 0
+Line 1
+Line 2
+Line 3
+Line 4
+Line 5
+Line 6
+Line 7
+Line 8
+Line 9
+Press any key to continue . . .
+
+
+Part 3
+
+Line 0
+Line 1
+Line 2
+Line 3
+Line 4
+Line 5
+Line 6
+Line 7
+Line 8
+Line 9
+Press any key to continue . . .
+
+Part 4
+
+**********
+**********
+**********
+**********
+**********
+**********
+**********
+**********
+**********
+**********
+Press any key to continue . . .
+
+Part 5
+
+++++++++++
+++++++++++
+++++++++++
+++++++++++
+++++++++++
+++++++++++
+++++++++++
+++++++++++
+++++++++++
+++++++++++
+Press any key to continue . . .
+
+
+
+
+Part 6
+*         *
+ *       *
+  *     *
+   *   *
+    * *
+     *
+    * *
+   *   *
+  *     *
+ *       *
+*         *
+
+Press any key to continue . . .
+
