@@ -1,0 +1,175 @@
+EmailAddress                                                                                         ContactDate             ContactNumber ContactType     SeminarID
+---------------------------------------------------------------------------------------------------- ----------------------- ------------- --------------- -----------
+Bobbi.Pearson@elsewhere.com                                                                          2011-11-06 00:00:00.000 2             FormLetter01    NULL
+Chantel.Jacobs@somewhere.com                                                                         2011-10-16 00:00:00.000 2             FormLetter01    NULL
+Kathy.Foxtrot@somewhere.com                                                                          2011-10-30 00:00:00.000 2             FormLetter01    NULL
+Kathy.Foxtrot@somewhere.com                                                                          2012-02-20 00:00:00.000 3             FormLetter02    NULL
+Nancy.Jacobs@somewhere.com                                                                           2011-10-16 00:00:00.000 2             FormLetter01    NULL
+Ralph.Able@somewhere.com                                                                             2011-10-16 00:00:00.000 2             FormLetter01    NULL
+Sally.George@somewhere.com                                                                           2011-10-30 00:00:00.000 2             FormLetter01    NULL
+Sally.George@somewhere.com                                                                           2012-02-20 00:00:00.000 3             FormLetter02    NULL
+Sam.Eagleton@elsewhere.com                                                                           2011-10-16 00:00:00.000 2             FormLetter01    NULL
+Shawn.Hullett@elsewhere.com                                                                          2011-10-30 00:00:00.000 2             FormLetter01    NULL
+Shawn.Hullett@elsewhere.com                                                                          2012-02-20 00:00:00.000 3             FormLetter02    NULL
+Susan.Baker@elsewhere.com                                                                            2011-10-16 00:00:00.000 2             FormLetter01    NULL
+Terry.Ranger@somewhere.com                                                                           2011-11-06 00:00:00.000 2             FormLetter01    NULL
+
+(13 row(s) affected)
+
+EmailAddress                                                                                         LastName                  FirstName                 Phone        StreetAddress                       City                                State ZIP
+---------------------------------------------------------------------------------------------------- ------------------------- ------------------------- ------------ ----------------------------------- ----------------------------------- ----- ----------
+Bobbi.Pearson@elsewhere.com                                                                          Pearson                   Bobbi                     512-974-3344 43 West 23rd Street                 Auston                              TX    78710     
+Chantel.Jacobs@somewhere.com                                                                         Jacobs                    Chantel                   817-871-8234 1550 East Palm Drive                Fort Worth                          TX    76112     
+Jenny.Tyler@somewhere.com                                                                            Tyler                     Jenny                     972-233-6567 14056 South Ervay Street            Dallas                              TX    75225     
+Joan.Wayne@elsewhere.com                                                                             Wayne                     Joan                      817-871-8245 1660 South Aspen Drive              Fort Worth                          TX    76115     
+Kathy.Foxtrot@somewhere.com                                                                          Foxtrot                   Kathy                     972-233-6234 11023 Elm Street                    Dallas                              TX    75220     
+Nancy.Jacobs@somewhere.com                                                                           Jacobs                    Nancy                     817-871-8123 1440 West Palm Drive                Fort Worth                          TX    76110     
+Ralph.Able@somewhere.com                                                                             Able                      Ralph                     210-281-7987 123 Elm Street                      San Antonio                         TX    78214     
+Sally.George@somewhere.com                                                                           George                    Sally                     972-233-6345 12034 San Jacinto                   Dallas                              TX    75223     
+Sam.Eagleton@elsewhere.com                                                                           Eagleton                  Sam                       210-281-7765 789 Pine Street                     San Antonio                         TX    78218     
+Shawn.Hullett@elsewhere.com                                                                          Hullett                   Shawn                     972-233-6456 13045 Flora                         Dallas                              TX    75224     
+Susan.Baker@elsewhere.com                                                                            Baker                     Susan                     210-281-7876 456 Oak Street                      San Antonio                         TX    78216     
+Terry.Ranger@somewhere.com                                                                           Ranger                    Terry                     512-974-4455 56 East 18th Street                 Auston                              TX    78712     
+
+(12 row(s) affected)
+
+InvoiceNumber InvoiceDate             PaymentType               SubTotal                                Shipping                                Tax                                     Total                                   EmailAddress
+------------- ----------------------- ------------------------- --------------------------------------- --------------------------------------- --------------------------------------- --------------------------------------- ----------------------------------------------------------------------------------------------------
+35017         2011-10-15 00:00:00.000 VISA                      22.94                                   5.95                                    1.31                                    30.20                                   Ralph.Able@somewhere.com
+35018         2011-10-25 00:00:00.000 MasterCard                47.89                                   5.95                                    2.73                                    56.57                                   Susan.Baker@elsewhere.com
+35019         2011-12-20 00:00:00.000 VISA                      24.95                                   5.95                                    1.42                                    32.32                                   Sally.George@somewhere.com
+35020         2012-03-25 00:00:00.000 MasterCard                64.85                                   5.95                                    3.70                                    74.50                                   Susan.Baker@elsewhere.com
+35021         2012-03-27 00:00:00.000 MasterCard                94.79                                   5.95                                    5.40                                    106.14                                  Kathy.Foxtrot@somewhere.com
+35022         2012-03-27 00:00:00.000 MasterCard                94.80                                   5.95                                    5.40                                    106.15                                  Sally.George@somewhere.com
+35023         2012-03-31 00:00:00.000 VISA                      47.89                                   5.95                                    2.73                                    56.57                                   Bobbi.Pearson@elsewhere.com
+35024         2012-04-03 00:00:00.000 MasterCard                109.78                                  5.95                                    6.26                                    121.99                                  Jenny.Tyler@somewhere.com
+35025         2012-04-08 00:00:00.000 MasterCard                47.89                                   5.95                                    2.73                                    56.57                                   Sam.Eagleton@elsewhere.com
+35026         2012-04-08 00:00:00.000 VISA                      47.89                                   5.95                                    2.73                                    56.57                                   Nancy.Jacobs@somewhere.com
+35027         2012-04-23 00:00:00.000 VISA                      24.95                                   5.95                                    1.42                                    32.32                                   Ralph.Able@somewhere.com
+35028         2012-05-07 00:00:00.000 VISA                      22.94                                   5.95                                    1.31                                    30.20                                   Bobbi.Pearson@elsewhere.com
+35029         2012-05-21 00:00:00.000 MasterCard                54.89                                   5.95                                    3.13                                    63.97                                   Shawn.Hullett@elsewhere.com
+35030         2012-06-05 00:00:00.000 VISA                      47.89                                   5.95                                    2.73                                    56.57                                   Ralph.Able@somewhere.com
+35031         2012-06-05 00:00:00.000 MasterCard                45.88                                   5.95                                    2.62                                    54.45                                   Jenny.Tyler@somewhere.com
+35032         2012-06-05 00:00:00.000 MasterCard                94.79                                   5.95                                    5.40                                    106.14                                  Joan.Wayne@elsewhere.com
+35033         2012-06-05 00:00:00.000 VISA                      45.88                                   5.95                                    2.62                                    54.45                                   Ralph.Able@somewhere.com
+
+(17 row(s) affected)
+
+InvoiceNumber LineNumber  Quantity    UnitPrice                               Total                                   ProductNumber
+------------- ----------- ----------- --------------------------------------- --------------------------------------- -----------------------------------
+
+(0 row(s) affected)
+
+ProductNumber                       Description                                                                                          UnitPrice                               QuantityOnHand
+----------------------------------- ---------------------------------------------------------------------------------------------------- --------------------------------------- --------------
+BK001                               Kitchen Remodeling Basics For Everyone - Book                                                        24.95                                   75
+BK002                               Advanced Kitchen Remodeling For Everyone - Book                                                      24.95                                   75
+VB001                               Kitchen Remodeling Basics - Video Companion                                                          7.99                                    50
+VB002                               Advanced Kitchen Remodeling - Video Companion                                                        7.99                                    35
+VB003                               Kitchen Remodeling Dallas Style - Video Companion                                                    9.99                                    25
+VK001                               Kitchen Remodeling Basics - Video                                                                    14.95                                   50
+VK002                               Advanced Kitchen Remodeling - Video                                                                  14.95                                   35
+VK003                               Kitchen Remodeling Dallas Style - Video                                                              19.95                                   25
+VK004                               Heather Sweeney Seminar Live in Dallas on 25-OCT-09 - Video                                          24.95                                   20
+
+(9 row(s) affected)
+
+SeminarID   SeminarDate             SeminarTime             Location                                                                                             SeminarTitle
+----------- ----------------------- ----------------------- ---------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------
+5           2011-10-11 00:00:00.000 1900-01-01 11:00:00.000 San Antonio Convention Center                                                                        Kitchen on a Budget
+6           2011-10-25 00:00:00.000 1900-01-01 16:00:00.000 Dallas Convention Center                                                                             Kitchen on a Big D Budget
+7           2011-11-01 00:00:00.000 1900-01-01 08:30:00.000 Austin Convention Center                                                                             Kitchen on a Budget
+8           2012-03-22 00:00:00.000 1900-01-01 11:00:00.000 Dallas Convention Center                                                                             Kitchen on a Big D Budget
+
+(4 row(s) affected)
+
+SeminarID   EmailAddress
+----------- ----------------------------------------------------------------------------------------------------
+
+(0 row(s) affected)
+
+LastName                  FirstName                 Phone
+------------------------- ------------------------- ------------
+Tyler                     Jenny                     972-233-6567
+Foxtrot                   Kathy                     972-233-6234
+George                    Sally                     972-233-6345
+Hullett                   Shawn                     972-233-6456
+
+(4 row(s) affected)
+
+LastName                  FirstName                 Phone
+------------------------- ------------------------- ------------
+Tyler                     Jenny                     972-233-6567
+
+(1 row(s) affected)
+
+InvoiceNumber
+-------------
+
+(0 row(s) affected)
+
+InvoiceNumber
+-------------
+
+(0 row(s) affected)
+
+InvoiceNumber
+-------------
+
+(0 row(s) affected)
+
+InvoiceNumber
+-------------
+
+(0 row(s) affected)
+
+FirstName                 LastName                  Phone
+------------------------- ------------------------- ------------
+
+(0 row(s) affected)
+
+FirstName                 LastName                  Phone        ProductNumber                       Description
+------------------------- ------------------------- ------------ ----------------------------------- ----------------------------------------------------------------------------------------------------
+
+(0 row(s) affected)
+
+SumOfSubTotal
+---------------------------------------
+940.89
+
+(1 row(s) affected)
+
+AverageOfSubTotal
+---------------------------------------
+55.346470
+
+(1 row(s) affected)
+
+SumOfSubTotal                           AverageOfSubTotal
+--------------------------------------- ---------------------------------------
+940.89                                  55.346470
+
+(1 row(s) affected)
+
+ProductNumber                       Description                                                                                          UnitPrice                               QuantityOnHand
+----------------------------------- ---------------------------------------------------------------------------------------------------- --------------------------------------- --------------
+VK004                               Heather Sweeney Seminar Live in Dallas on 25-OCT-09 - Video                                          24.95                                   20
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+ProductNumber                       Description                                                                                          UnitPrice                               QuantityOnHand
+----------------------------------- ---------------------------------------------------------------------------------------------------- --------------------------------------- --------------
+VK004                               Heather Sweeney Seminar Live in Dallas on 25-OCT-09 - Video                                          34.95                                   20
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+ProductNumber                       Description                                                                                          UnitPrice                               QuantityOnHand
+----------------------------------- ---------------------------------------------------------------------------------------------------- --------------------------------------- --------------
+VK004                               Heather Sweeney Seminar Live in Dallas on 25-OCT-09 - Video                                          24.95                                   20
+
+(1 row(s) affected)
+

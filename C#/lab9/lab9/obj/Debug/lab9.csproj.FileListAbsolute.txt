@@ -1,0 +1,9 @@
+c:\users\nhti\documents\visual studio 2012\Projects\lab9\lab9\bin\Debug\lab9.exe.config
+c:\users\nhti\documents\visual studio 2012\Projects\lab9\lab9\bin\Debug\lab9.exe
+c:\users\nhti\documents\visual studio 2012\Projects\lab9\lab9\bin\Debug\lab9.pdb
+c:\users\nhti\documents\visual studio 2012\Projects\lab9\lab9\obj\Debug\lab9.csprojResolveAssemblyReference.cache
+c:\users\nhti\documents\visual studio 2012\Projects\lab9\lab9\obj\Debug\lab9.exe
+c:\users\nhti\documents\visual studio 2012\Projects\lab9\lab9\obj\Debug\lab9.pdb
+K:\Visual Studios Labs for IT210\lab9\lab9\bin\Debug\lab9.exe.config
+K:\Visual Studios Labs for IT210\lab9\lab9\obj\Debug\lab9.exe
+K:\Visual Studios Labs for IT210\lab9\lab9\obj\Debug\lab9.pdb
